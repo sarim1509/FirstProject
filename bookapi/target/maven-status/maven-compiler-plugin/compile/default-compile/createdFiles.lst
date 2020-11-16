@@ -1,0 +1,9 @@
+com\sarim\spring\config\AppConfig.class
+com\sarim\spring\dao\BookDAOImpl.class
+com\sarim\spring\config\MyWebAppInitializer.class
+com\sarim\spring\model\Book.class
+com\sarim\spring\service\BookService.class
+com\sarim\spring\config\WebConfig.class
+com\sarim\spring\controller\BookController.class
+com\sarim\spring\service\BookServiceImpl.class
+com\sarim\spring\dao\BookDAO.class
